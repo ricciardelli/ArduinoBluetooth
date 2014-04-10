@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_01">No hay ningún adaptador Bluetooth disponible</string>
+    <string name="error_02">Ha ocurrido un error tratando de abrir el Socket</string>
+    <string name="error_03">Ha ocurrido un error tratando de conectarse al Socket</string>
+    <string name="error_04">Ha ocurrido un error tratando de enviar datos</string>
+    <string name="error_05">Ha ocurrido un error tratando de recibir datos</string>
+
+</resources>
